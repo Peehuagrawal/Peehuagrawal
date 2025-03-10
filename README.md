@@ -1,4 +1,11 @@
+## 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Peehu+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Peehu Welcome to my Profile! animated typed out">
+<h3 align="center">A passionate CS undergrad.</h3>
+<img align = "right" width"400" src=140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
+- 🔭 I’m currently pursuing B.Tech(H) in CSE ( DS ) from **UTD, CSVTU Bhilai**
+
+- 🌱 I’m currently learning **AI/ML**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Peehu Agrawal](https://www.linkedin.com/in/peehu-agrawal-b908972ab)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawalpeehu5@gmail.com) 
 
